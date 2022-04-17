@@ -1,6 +1,6 @@
 # Task 5
 
-##Details
+## Details
 
 Java files + Documentation written by me:
 `RectNode.java`
