@@ -1,4 +1,6 @@
 # Task 5
+Task 5 is all about using linked list, pointers, and some more complex logic then before.
+Time & Space Complexity are considered too.
 
 ## Details
 
