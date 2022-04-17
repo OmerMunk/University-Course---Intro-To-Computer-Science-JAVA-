@@ -11,7 +11,7 @@ Java files + Documentation written by me:
 ### Exercise 1 - findMinDiff (Time Complexity)
 This method gets an array of integers, and 2 integers and returns the minimum differnce between the two indexes that contains
 the given 2 integers. If at least one doesn't exist in the array, the method returns integer max value.
-#### Exercise 2 - Binary search In a Circle Sorted Matrix (Time Complexity)
+### Exercise 2 - Binary search In a Circle Sorted Matrix (Time Complexity)
 
 
 ### Exercise 3 -Equal Split (Recursion)
